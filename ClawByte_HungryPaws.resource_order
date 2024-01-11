@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Obj_platform","order":1,"path":"objects/Obj_platform/Obj_platform.yy",},
+    {"name":"Obj_move_parent","order":2,"path":"objects/Obj_move_parent/Obj_move_parent.yy",},
+  ],
+}
