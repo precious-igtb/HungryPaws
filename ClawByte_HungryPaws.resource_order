@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_btn_settings","order":1,"path":"sprites/spr_btn_settings/spr_btn_settings.yy",},
+    {"name":"obj_button_help","order":2,"path":"objects/obj_button_help/obj_button_help.yy",},
+    {"name":"spr_btn_how2play","order":2,"path":"sprites/spr_btn_how2play/spr_btn_how2play.yy",},
+    {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"fnt_menu","order":1,"path":"fonts/fnt_menu/fnt_menu.yy",},
+    {"name":"obj_button_settings","order":3,"path":"objects/obj_button_settings/obj_button_settings.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
+    {"name":"obj_control","order":4,"path":"objects/obj_control/obj_control.yy",},
+    {"name":"spr_bachground_image","order":3,"path":"sprites/spr_bachground_image/spr_bachground_image.yy",},
+  ],
+}
