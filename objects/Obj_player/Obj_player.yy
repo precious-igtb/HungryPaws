@@ -31,7 +31,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_bear_right",
+    "path": "sprites/Spr_bear_right/Spr_bear_right.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
