@@ -3,7 +3,9 @@
   "ResourceOrderSettings": [
     {"name":"Obj_platform","order":1,"path":"objects/Obj_platform/Obj_platform.yy",},
     {"name":"Obj_move_parent","order":2,"path":"objects/Obj_move_parent/Obj_move_parent.yy",},
+    {"name":"Spr_honey_pot","order":5,"path":"sprites/Spr_honey_pot/Spr_honey_pot.yy",},
     {"name":"Spr_background","order":3,"path":"sprites/Spr_background/Spr_background.yy",},
+    {"name":"Obj_honey_pot","order":3,"path":"objects/Obj_honey_pot/Obj_honey_pot.yy",},
     {"name":"Spr_platform","order":4,"path":"sprites/Spr_platform/Spr_platform.yy",},
     {"name":"Spr_bear_right","order":2,"path":"sprites/Spr_bear_right/Spr_bear_right.yy",},
     {"name":"Spr_bear_left","order":1,"path":"sprites/Spr_bear_left/Spr_bear_left.yy",},
