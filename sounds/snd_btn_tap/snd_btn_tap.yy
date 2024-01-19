@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_btn_tap.wav",
   "type": 0,
-  "volume": 0.86,
+  "volume": 1.0,
 }

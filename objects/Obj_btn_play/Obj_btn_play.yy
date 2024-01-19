@@ -12,8 +12,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "Obj_btn_tap_parent",
-    "path": "objects/Obj_btn_tap_parent/Obj_btn_tap_parent.yy",
+    "name": "Obj_btn_gui_click_parent",
+    "path": "objects/Obj_btn_gui_click_parent/Obj_btn_gui_click_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_btn_play",
-    "path": "sprites/Spr_btn_play/Spr_btn_play.yy",
+    "name": "Spr_btn_bg",
+    "path": "sprites/Spr_btn_bg/Spr_btn_bg.yy",
   },
   "spriteMaskId": null,
   "visible": true,
