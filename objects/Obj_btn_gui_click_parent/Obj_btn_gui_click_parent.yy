@@ -14,10 +14,7 @@
     "name": "Obj_main_menu_inheritance",
     "path": "folders/Objects/Obj_main_menu_inheritance.yy",
   },
-  "parentObjectId": {
-    "name": "Obj_btn_gui_parent",
-    "path": "objects/Obj_btn_gui_parent/Obj_btn_gui_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
