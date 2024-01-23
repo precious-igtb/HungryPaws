@@ -10,3 +10,9 @@ hspeed = 3;
 /// @DnDHash : 6CA00943
 /// @DnDArgument : "direction" "180,0"
 direction = choose(180,0);
+
+/// @DnDAction : YoYo Games.Movement.Reverse
+/// @DnDVersion : 1
+/// @DnDHash : 04646443
+/// @DnDArgument : "dir" "1"
+hspeed = -hspeed;
