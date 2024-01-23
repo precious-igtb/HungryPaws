@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Obj_bees","order":3,"path":"objects/Obj_bees/Obj_bees.yy",},
+    {"name":"Obj_icicle","order":4,"path":"objects/Obj_icicle/Obj_icicle.yy",},
     {"name":"Spr_bees_3","order":7,"path":"sprites/Spr_bees_3/Spr_bees_3.yy",},
     {"name":"Obj_platform","order":1,"path":"objects/Obj_platform/Obj_platform.yy",},
     {"name":"Spr_bees_2","order":6,"path":"sprites/Spr_bees_2/Spr_bees_2.yy",},

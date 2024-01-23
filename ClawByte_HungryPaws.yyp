@@ -34,6 +34,8 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"Obj_bees","path":"objects/Obj_bees/Obj_bees.yy",},},
+    {"id":{"name":"Obj_icicle","path":"objects/Obj_icicle/Obj_icicle.yy",},},
     {"id":{"name":"Spr_bees_3","path":"sprites/Spr_bees_3/Spr_bees_3.yy",},},
     {"id":{"name":"Spr_bear","path":"sprites/Spr_bear/Spr_bear.yy",},},
     {"id":{"name":"Obj_platform","path":"objects/Obj_platform/Obj_platform.yy",},},
