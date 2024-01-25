@@ -11,7 +11,5 @@
     {"name":"Spr_bees_1","order":5,"path":"sprites/Spr_bees_1/Spr_bees_1.yy",},
     {"name":"Spr_icicle","order":8,"path":"sprites/Spr_icicle/Spr_icicle.yy",},
     {"name":"Spr_platform","order":4,"path":"sprites/Spr_platform/Spr_platform.yy",},
-    {"name":"Spr_bear_right","order":2,"path":"sprites/Spr_bear_right/Spr_bear_right.yy",},
-    {"name":"Spr_bear_left","order":1,"path":"sprites/Spr_bear_left/Spr_bear_left.yy",},
   ],
 }
