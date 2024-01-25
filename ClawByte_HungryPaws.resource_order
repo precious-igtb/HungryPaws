@@ -8,6 +8,7 @@
   "ResourceOrderSettings": [
     {"name":"Spr_bg_blurred","order":5,"path":"sprites/Spr_bg_blurred/Spr_bg_blurred.yy",},
     {"name":"Obj_btn_gui_parent","order":1,"path":"objects/Obj_btn_gui_parent/Obj_btn_gui_parent.yy",},
+    {"name":"Spr_how2play_text","order":14,"path":"sprites/Spr_how2play_text/Spr_how2play_text.yy",},
     {"name":"Spr_btn_play","order":2,"path":"sprites/Spr_btn_play/Spr_btn_play.yy",},
     {"name":"Spr_btn_sound","order":7,"path":"sprites/Spr_btn_sound/Spr_btn_sound.yy",},
     {"name":"Spr_main_background","order":5,"path":"sprites/Spr_main_background/Spr_main_background.yy",},
@@ -32,6 +33,7 @@
     {"name":"rm_how2play","order":2,"path":"rooms/rm_how2play/rm_how2play.yy",},
     {"name":"Obj_btn_how2play","order":5,"path":"objects/Obj_btn_how2play/Obj_btn_how2play.yy",},
     {"name":"Spr_bear_right","order":2,"path":"sprites/Spr_bear_right/Spr_bear_right.yy",},
+    {"name":"Obj_how2play_text","order":7,"path":"objects/Obj_how2play_text/Obj_how2play_text.yy",},
     {"name":"Spr_btn_menu","order":9,"path":"sprites/Spr_btn_menu/Spr_btn_menu.yy",},
     {"name":"Spr_bear_left","order":1,"path":"sprites/Spr_bear_left/Spr_bear_left.yy",},
     {"name":"Obj_btn_tap_parent","order":4,"path":"objects/Obj_btn_tap_parent/Obj_btn_tap_parent.yy",},
