@@ -34,6 +34,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+<<<<<<< HEAD
     {"id":{"name":"Obj_bees","path":"objects/Obj_bees/Obj_bees.yy",},},
     {"id":{"name":"Obj_icicle","path":"objects/Obj_icicle/Obj_icicle.yy",},},
     {"id":{"name":"Spr_bees_3","path":"sprites/Spr_bees_3/Spr_bees_3.yy",},},
@@ -50,6 +51,19 @@
     {"id":{"name":"Obj_bear","path":"objects/Obj_bear/Obj_bear.yy",},},
     {"id":{"name":"Spr_progress_bar","path":"sprites/Spr_progress_bar/Spr_progress_bar.yy",},},
     {"id":{"name":"Obj_honey_pot","path":"objects/Obj_honey_pot/Obj_honey_pot.yy",},},
+=======
+    {"id":{"name":"Spr_bear","path":"sprites/Spr_bear/Spr_bear.yy",},},
+    {"id":{"name":"Obj_platform","path":"objects/Obj_platform/Obj_platform.yy",},},
+    {"id":{"name":"Obj_move_parent","path":"objects/Obj_move_parent/Obj_move_parent.yy",},},
+    {"id":{"name":"Spr_honey_pot","path":"sprites/Spr_honey_pot/Spr_honey_pot.yy",},},
+    {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},},
+    {"id":{"name":"Obj_honey_pot","path":"objects/Obj_honey_pot/Obj_honey_pot.yy",},},
+    {"id":{"name":"Spr_platform","path":"sprites/Spr_platform/Spr_platform.yy",},},
+    {"id":{"name":"Spr_bear_right","path":"sprites/Spr_bear_right/Spr_bear_right.yy",},},
+    {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
+    {"id":{"name":"Spr_bear_left","path":"sprites/Spr_bear_left/Spr_bear_left.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+>>>>>>> parent of 9726c6a (Modified basic movements, collision and sprite sizes)
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
