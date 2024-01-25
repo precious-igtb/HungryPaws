@@ -35,6 +35,7 @@
   },
   "resources": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"Obj_bees","path":"objects/Obj_bees/Obj_bees.yy",},},
     {"id":{"name":"Obj_icicle","path":"objects/Obj_icicle/Obj_icicle.yy",},},
     {"id":{"name":"Spr_bees_3","path":"sprites/Spr_bees_3/Spr_bees_3.yy",},},
@@ -52,6 +53,8 @@
     {"id":{"name":"Spr_progress_bar","path":"sprites/Spr_progress_bar/Spr_progress_bar.yy",},},
     {"id":{"name":"Obj_honey_pot","path":"objects/Obj_honey_pot/Obj_honey_pot.yy",},},
 =======
+=======
+>>>>>>> parent of 9726c6a (Modified basic movements, collision and sprite sizes)
     {"id":{"name":"Spr_bear","path":"sprites/Spr_bear/Spr_bear.yy",},},
     {"id":{"name":"Obj_platform","path":"objects/Obj_platform/Obj_platform.yy",},},
     {"id":{"name":"Obj_move_parent","path":"objects/Obj_move_parent/Obj_move_parent.yy",},},
@@ -63,6 +66,9 @@
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"Spr_bear_left","path":"sprites/Spr_bear_left/Spr_bear_left.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+<<<<<<< HEAD
+>>>>>>> parent of 9726c6a (Modified basic movements, collision and sprite sizes)
+=======
 >>>>>>> parent of 9726c6a (Modified basic movements, collision and sprite sizes)
   ],
   "RoomOrderNodes": [
