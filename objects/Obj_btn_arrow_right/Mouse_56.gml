@@ -1,9 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 099C69E8
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)if(position_meeting(device_mouse_x_to_gui(0), device_mouse_y_to_gui(0), id)) {$(13_10)	if (Snd_btn_tap != noone) audio_play_sound(Snd_btn_tap, 1, false);$(13_10)}$(13_10) "
-/// @description Execute Code
-
-if(position_meeting(device_mouse_x_to_gui(0), device_mouse_y_to_gui(0), id)) {
-	if (Snd_btn_tap != noone) audio_play_sound(Snd_btn_tap, 1, false);
-}
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 0EBFC4EB
+/// @DnDArgument : "soundid" "snd_btn_tap"
+/// @DnDSaveInfo : "soundid" "snd_btn_tap"
+audio_play_sound(snd_btn_tap, 0, 0, 1.0, undefined, 1.0);
