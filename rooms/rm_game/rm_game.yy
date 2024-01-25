@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_game",
-  "creationCodeFile": "rooms/rm_game/RoomCreationCode.gml",
+  "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
@@ -40,7 +40,7 @@
     {"name":"inst_7B9776B5","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_56FEFC85","path":"rooms/rm_game/rm_game.yy",},
   ],
-  "isDnd": true,
+  "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_obstacles_icicle","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6214EA40","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_icicle","path":"objects/Obj_icicle/Obj_icicle.yy",},"properties":[],"rotation":0.0,"scaleX":0.109375,"scaleY":0.140625,"x":640.0,"y":992.0,},
@@ -100,7 +100,7 @@
     "Height": 1920,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 1080,
+    "Width": 2160,
   },
   "sequenceId": null,
   "views": [
