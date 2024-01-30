@@ -6,7 +6,7 @@ event_inherited();
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 52682729
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)interact = function() {$(13_10)	room_goto(rm_settings);$(13_10)}"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)interact = function() {$(13_10)	room_goto(rm_settings);$(13_10)}$(13_10)$(13_10)"
 /// @description Execute Code
 
 interact = function() {

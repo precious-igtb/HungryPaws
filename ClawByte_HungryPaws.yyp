@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 2,
+  "defaultScriptType": 0,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -77,7 +77,6 @@
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"snd_menu_music","path":"sounds/snd_menu_music/snd_menu_music.yy",},},
     {"id":{"name":"Obj_how2play_text","path":"objects/Obj_how2play_text/Obj_how2play_text.yy",},},
-    {"id":{"name":"Obj_sound_parent","path":"objects/Obj_sound_parent/Obj_sound_parent.yy",},},
     {"id":{"name":"Spr_btn_menu","path":"sprites/Spr_btn_menu/Spr_btn_menu.yy",},},
     {"id":{"name":"Spr_btn_bg","path":"sprites/Spr_btn_bg/Spr_btn_bg.yy",},},
     {"id":{"name":"Spr_bear_left","path":"sprites/Spr_bear_left/Spr_bear_left.yy",},},
