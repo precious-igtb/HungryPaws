@@ -1,6 +1,8 @@
-/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 2E3D1931
-/// @DnDArgument : "soundid" "snd_menu_music"
-/// @DnDSaveInfo : "soundid" "snd_menu_music"
+/// @DnDHash : 3680D673
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)// Stop Audio$(13_10)audio_stop_sound(snd_menu_music);"
+/// @description Execute Code
+
+// Stop Audio
 audio_stop_sound(snd_menu_music);

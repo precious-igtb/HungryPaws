@@ -12,12 +12,12 @@
   "conversionMode": 0,
   "duration": 3.004195,
   "parent": {
-    "name": "grp_snd_sfx",
-    "path": "folders/Sounds/grp_snd_sfx.yy",
+    "name": "snd_effects",
+    "path": "folders/Sounds/snd_effects.yy",
   },
   "preload": false,
   "sampleRate": 44100,
   "soundFile": "snd_game_over.wav",
   "type": 0,
-  "volume": 0.43,
+  "volume": 0.63,
 }

@@ -1,12 +1,16 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 401962E2
-/// @DnDArgument : "speed" "random_range(2,10)"
-/// @DnDArgument : "type" "2"
-vspeed = random_range(2,10);
+/// @DnDHash : 099A90C0
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)// Obj_icicle Create Event$(13_10)$(13_10)// Set Speed and Gravity$(13_10)vspeed = 5;  // Adjust the falling speed as needed$(13_10)gravity = 0.5;  // Adjust the gravity force as needed$(13_10)$(13_10)// Additional Variables$(13_10)falling = true;  // Indicates whether the icicle is falling$(13_10)$(13_10)// Adjust the sprite_index based on your icicle sprite$(13_10)sprite_index = Spr_icicle;  // Replace Spr_icicle with the actual sprite for icicles$(13_10)"
+/// @description Execute Code
+// Obj_icicle Create Event
 
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
-/// @DnDVersion : 1.1
-/// @DnDHash : 34AFEFAE
-/// @DnDArgument : "direction" "270"
-direction = 270;
+// Set Speed and Gravity
+vspeed = 5;  // Adjust the falling speed as needed
+gravity = 0.5;  // Adjust the gravity force as needed
+
+// Additional Variables
+falling = true;  // Indicates whether the icicle is falling
+
+// Adjust the sprite_index based on your icicle sprite
+sprite_index = Spr_icicle;  // Replace Spr_icicle with the actual sprite for icicles

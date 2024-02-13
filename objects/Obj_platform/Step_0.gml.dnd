@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<Layouts><Layout layout_name="DnDWorkspace" layout_guid="cb5e84fa-2fc2-49bc-8946-3e4429aceb43" toolbox_size="25%" toolbox_anchor="Last" story_size="177.00002px"><Workspace zoom="1" pan="[213.24994, 95]" /><Node hash="24061138" left="165.3333" top="125" width="232" height="153.8" /><Node hash="338169F1" left="281.3333" top="288.80002" width="266.4" height="153.8" /><Node hash="1DBFCC26" left="299.99997" top="452.6" width="232" height="93.8" /></Layout></Layouts>
-=======
-<Layouts><Layout layout_name="DnDWorkspace" layout_guid="4c5a28a4-4e27-487c-8384-f7468c4fb78a" toolbox_size="25%" toolbox_anchor="Last" story_size="0px" story_collapsed="True"><Workspace zoom="1" pan="[101.25, -91]" /><Node hash="24061138" left="165.3333" top="125" width="232" height="153" /><Node hash="338169F1" left="281.3333" top="288" width="269.33334" height="153" /><Node hash="1DBFCC26" left="299.99997" top="451" width="232" height="93" /></Layout></Layouts>
->>>>>>> parent of 9726c6a (Modified basic movements, collision and sprite sizes)
-=======
-<Layouts><Layout layout_name="DnDWorkspace" layout_guid="4c5a28a4-4e27-487c-8384-f7468c4fb78a" toolbox_size="25%" toolbox_anchor="Last" story_size="0px" story_collapsed="True"><Workspace zoom="1" pan="[101.25, -91]" /><Node hash="24061138" left="165.3333" top="125" width="232" height="153" /><Node hash="338169F1" left="281.3333" top="288" width="269.33334" height="153" /><Node hash="1DBFCC26" left="299.99997" top="451" width="232" height="93" /></Layout></Layouts>
->>>>>>> parent of 9726c6a (Modified basic movements, collision and sprite sizes)

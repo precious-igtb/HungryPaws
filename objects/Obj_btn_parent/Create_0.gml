@@ -1,13 +1,9 @@
-/// @DnDAction : YoYo Games.Common.Function
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 0B7AC0C3
-/// @DnDArgument : "funcName" "interact"
+/// @DnDHash : 02C256D7
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)function interact() $(13_10){$(13_10)	show_debug_message(string("Default button event"));$(13_10)}"
+/// @description Execute Code
 function interact() 
 {
-	/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-	/// @DnDVersion : 1
-	/// @DnDHash : 49AD8CCA
-	/// @DnDParent : 0B7AC0C3
-	/// @DnDArgument : "msg" ""Default button event""
 	show_debug_message(string("Default button event"));
 }

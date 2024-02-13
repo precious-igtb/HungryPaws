@@ -1,28 +1,30 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
-/// @DnDVersion : 1
-/// @DnDHash : 24061138
-/// @DnDArgument : "var" "y"
-/// @DnDArgument : "op" "2"
-/// @DnDArgument : "value" "room_height + 380"
-if(y > room_height + 380)
-{
-	/// @DnDAction : YoYo Games.Random.Get_Random_Number
-	/// @DnDVersion : 1
-	/// @DnDHash : 338169F1
-	/// @DnDParent : 24061138
-	/// @DnDArgument : "var" "new_x"
-	/// @DnDArgument : "var_temp" "1"
-	/// @DnDArgument : "type" "1"
-	/// @DnDArgument : "min" "200"
-	/// @DnDArgument : "max" "room_width - 200"
-	var new_x = floor(random_range(200, room_width - 200 + 1));
 
-	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
-	/// @DnDVersion : 1
-	/// @DnDHash : 1DBFCC26
-	/// @DnDParent : 24061138
-	/// @DnDArgument : "x" "new_x"
-	/// @DnDArgument : "y" "-200"
-	x = new_x;
-	y = -200;
+// If the platform moves out of the room
+if(y > room_height)
+{
+	// Jump To Point
+	// Go to that position
+	x = x;
+	y = -500; 
+	
+ 
+// Get Random Number
+var chance = irandom(1);
+var width = sprite_width;   // Assuming sprite_width is the width of your sprite
+var height = sprite_height; 
+//var honey_pots = noone;
+
+if (chance == 1) {
+    // Use the only instance of Obj_platform
+    var platformInstance = instance_nearest(x, y, Obj_platform); // Find the nearest instance
+    if (instance_exists(platformInstance) && platformInstance.sprite_index != -1) {
+        var halfWidth = platformInstance.sprite_width / 3;
+        var halfHeight = platformInstance.sprite_height / 3;
+
+        var xx = platformInstance.x + random_range(-halfWidth, halfWidth);
+        var yy = platformInstance.y - random_range(-halfHeight, halfHeight);  // Adjust the 5 to fit your game
+        instance_create_layer(xx, yy, "Spawns", Obj_honey_pot);
+    }
+}
+
 }

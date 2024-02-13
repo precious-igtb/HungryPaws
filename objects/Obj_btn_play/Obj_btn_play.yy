@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_btn_bg",
-    "path": "sprites/Spr_btn_bg/Spr_btn_bg.yy",
+    "name": "Spr_btn_play",
+    "path": "sprites/Spr_btn_play/Spr_btn_play.yy",
   },
   "spriteMaskId": null,
   "visible": true,

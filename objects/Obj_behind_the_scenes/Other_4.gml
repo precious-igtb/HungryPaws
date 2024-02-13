@@ -1,7 +1,10 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 5E7482FE
-/// @DnDArgument : "soundid" "snd_menu_music"
-/// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "snd_menu_music"
-audio_play_sound(snd_menu_music, 0, 1, 1.0, undefined, 1.0);
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 26DACB8B
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)// Play Audio$(13_10)audio_play_sound(snd_menu_music, 0, 0, 1.0, undefined, 1.0);$(13_10)$(13_10)// Set Global Variable$(13_10)global.isMusicOn = true;"
+/// @description Execute Code
+// Play Audio
+audio_play_sound(snd_menu_music, 0, 0, 1.0, undefined, 1.0);
+
+// Set Global Variable
+global.isMusicOn = true;

@@ -1,8 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
-
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 41B62313
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if (mouse_check_button_pressed(mb_left)) {$(13_10)$(13_10)	global.isMusicOn = !global.isMusicOn;$(13_10)	image_index = (global.isMusicOn) ? 0 : 1;$(13_10)	$(13_10)     //Toggle background music$(13_10)    if (global.isMusicOn) {$(13_10)        audio_resume_all();$(13_10)    } else {$(13_10)        audio_pause_all();$(13_10)    }$(13_10)}"
+/// @description Execute Code
 if (mouse_check_button_pressed(mb_left)) {
 
 	global.isMusicOn = !global.isMusicOn;
@@ -15,76 +15,3 @@ if (mouse_check_button_pressed(mb_left)) {
         audio_pause_all();
     }
 }
-	
-	
-//if(mouse_check_button_pressed(mb_left)) {
-	
-//	if(audio_is_playing(snd_menu_music)) {
-//		//toggle music off
-//		image_index = 1; 
-//		global.isMusicOn = false; 
-//		audio_pause_sound(snd_menu_music);
-//	}
-//	else {
-//		//toggle music on 
-//		image_index = 0; 
-//		global.isMusicOn = true; 
-//		audio_resume_sound(snd_menu_music);
-	
-//	}
-//}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

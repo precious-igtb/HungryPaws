@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Obj_how2play_pages",
+    "path": "folders/Objects/Obj_how2play_pages.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_how2play_text",
-    "path": "sprites/Spr_how2play_text/Spr_how2play_text.yy",
+    "name": "Spr_how2play_header",
+    "path": "sprites/Spr_how2play_header/Spr_how2play_header.yy",
   },
   "spriteMaskId": null,
   "visible": true,

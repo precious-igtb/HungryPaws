@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Obj_how2play_pages",
+    "path": "folders/Objects/Obj_how2play_pages.yy",
   },
   "parentObjectId": null,
   "persistent": false,
