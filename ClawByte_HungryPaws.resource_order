@@ -1,8 +1,4 @@
 {
-
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
-
   "FolderOrderSettings": [
     {"name":"Extensions","order":1,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":2,"path":"folders/Fonts.yy",},
@@ -99,5 +95,4 @@
     {"name":"Spr_bg_blurred","order":1,"path":"sprites/Spr_bg_blurred/Spr_bg_blurred.yy",},
     {"name":"Obj_btn_sound","order":7,"path":"objects/Obj_btn_sound/Obj_btn_sound.yy",},
   ],
-
 }

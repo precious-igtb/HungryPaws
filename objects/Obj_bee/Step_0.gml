@@ -4,7 +4,7 @@ var bear_instance = instance_find(Obj_bear, 0);
 
 if (bear_instance && !chasing_bear) {
     direction = point_direction(x, y, bear_instance.x, bear_instance.y);
-    // speed = 3; // Adjust the speed value as needed
+    //speed = 5; // Adjust the speed value as needed
     x += lengthdir_x(speed, direction);
     y += lengthdir_y(speed, direction);
 

@@ -16,12 +16,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
-
-
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_buttons","folderPath":"folders/Objects/Obj_buttons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_how2play_pages","folderPath":"folders/Objects/Obj_how2play_pages.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_main_menu_inheritance","folderPath":"folders/Objects/Obj_main_menu_inheritance.yy",},
-
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},

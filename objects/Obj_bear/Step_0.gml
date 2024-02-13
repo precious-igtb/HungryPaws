@@ -243,17 +243,17 @@ if (global.bee_spawn_timer > 0) {
 if (global.icicle_spawn_timer > 0) {
     global.icicle_spawn_timer -= 1;
 }
+// Adjust the margin value based on your needs
+//var margin = 0.25; 
 
    // Check if the bear is colliding with a bee
-if (collision_rectangle(x + sprite_width/2.5, y + sprite_width/2.5, x + sprite_height/2.5, y + sprite_height/2.5, Obj_bee, false, true)) {
+if (collision_rectangle(x - sprite_width / 2, y - sprite_height / 2, x + sprite_width / 1.5, y + sprite_height / 1.5, Obj_bee, false, true)) {
     // Check if the collision was not processed in the previous step
     if (!collision_processed) {
-
 		global.pots_collected -= 1; // Decrease honey pots
 		
 		// Play "ow" sound 
 		audio_play_sound(snd_ow, 5, false, 1);
-		
         // Wait for a short duration (e.g., 30 steps) before changing the sprite
         alarm[0] = 10; 
 		
