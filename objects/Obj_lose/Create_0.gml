@@ -1,15 +1,18 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4D091FF7
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)//state = "hidden"; // Initial state$(13_10)//show_lose_scr$(13_10)$(13_10)$(13_10)//play lose sound 			$(13_10)audio_play_sound(snd_game_over, 5, false,1);$(13_10)$(13_10)$(13_10)"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)//state = "hidden"; // Initial state$(13_10)//show_lose_scr$(13_10)$(13_10)$(13_10)//play lose sound 		$(13_10)if(global.isSoundOn) {$(13_10)		$(13_10)		audio_play_sound(snd_game_over, 5, false,1);$(13_10)}$(13_10)$(13_10)$(13_10)$(13_10)"
 /// @description Execute Code
 
 //state = "hidden"; // Initial state
 //show_lose_scr
 
 
-//play lose sound 			
-audio_play_sound(snd_game_over, 5, false,1);
+//play lose sound 		
+if(global.isSoundOn) {
+		
+		audio_play_sound(snd_game_over, 5, false,1);
+}
 
 /// @DnDAction : YoYo Games.Audio.If_Audio_Playing
 /// @DnDVersion : 1

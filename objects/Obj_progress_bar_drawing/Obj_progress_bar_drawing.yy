@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object34",
+  "name": "Obj_progress_bar_drawing",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

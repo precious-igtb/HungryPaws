@@ -8,6 +8,6 @@ move_contact_solid(direction, 12)
 vsp = 0;
 
 // Create jump effect 
-instance_create_layer(x+0, other.y, "Player", Obj_jump_effect);
+//instance_create_layer(x+0, other.y, "Player", Obj_jump_effect);
 
 

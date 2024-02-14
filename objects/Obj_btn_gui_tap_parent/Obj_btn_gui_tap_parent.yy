@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "Obj_btn_gui_tap_parent",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":13,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

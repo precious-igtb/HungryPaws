@@ -19,7 +19,7 @@
 hsp = 0; 
 vsp = 0; 
 grv = 1.5;
-walksp = 12; 
+walksp = 16; 
 jumpbuffer = 0; 
 
 //Collectibles
@@ -38,3 +38,4 @@ collision_processed = false;
 global.icicles_enabled = false;
 global.icicle_spawn_timer = 0;
 
+global.lastCollidedBee = noone; // Initialize the variable
