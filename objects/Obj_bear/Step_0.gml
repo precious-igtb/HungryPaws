@@ -381,7 +381,7 @@ if (global.icicle_spawn_timer > 0) {
 if (switch_back_timer > 0) {
     switch_back_timer--; // Decrease the timer on each step
 
-   // Check if the bear is colliding with a bee
+// Check if the bear is colliding with a bee
 if (global.collidedBee) {
     // Check if the collision was not processed in the previous step
     if (!collision_processed) {
@@ -390,7 +390,7 @@ if (global.collidedBee) {
 		
 		audio_play_sound(snd_ow, 5, false, 1);
 		}
-        
+        global.pots_collected -= 1; // Decrease honey pots
 
         // Wait for a short duration (e.g., 30 steps) before changing the sprite
         sprite_index = Spr_player_defeated;

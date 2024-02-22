@@ -8,3 +8,5 @@ chasing_bear = false;
 global.collidedBee = false; 
 
 global.timer = 0;
+
+bear_instance = instance_find(Obj_bear, 0);

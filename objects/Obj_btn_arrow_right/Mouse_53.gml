@@ -9,5 +9,6 @@ if (point_in_rectangle(mouse_x, mouse_y, x, y, x + sprite_width, y + sprite_heig
 
     // Set an alarm to reset the button color after a delay (e.g., 30 steps)
     alarm[0] = 15;
+
 }
 
