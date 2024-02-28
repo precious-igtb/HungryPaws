@@ -31,7 +31,6 @@
     {"name":"Obj_btn_settings","order":6,"path":"objects/Obj_btn_settings/Obj_btn_settings.yy",},
     {"name":"Obj_btn_gui_tap_parent","order":2,"path":"objects/Obj_btn_gui_tap_parent/Obj_btn_gui_tap_parent.yy",},
     {"name":"Obj_btn_gui_parent","order":1,"path":"objects/Obj_btn_gui_parent/Obj_btn_gui_parent.yy",},
-    {"name":"Obj_jump_effect","order":6,"path":"objects/Obj_jump_effect/Obj_jump_effect.yy",},
     {"name":"Spr_jump_effect","order":5,"path":"sprites/Spr_jump_effect/Spr_jump_effect.yy",},
     {"name":"snd_ow","order":5,"path":"sounds/snd_ow/snd_ow.yy",},
     {"name":"Spr_lose_screen","order":2,"path":"sprites/Spr_lose_screen/Spr_lose_screen.yy",},

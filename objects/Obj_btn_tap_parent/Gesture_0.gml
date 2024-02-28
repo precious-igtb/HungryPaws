@@ -1,6 +1,5 @@
 /// @description Execute Code
-// Execute Code
-/// @description Execute Code
+
 
 	if(global.isSoundOn) 
 	{

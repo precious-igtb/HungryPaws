@@ -50,7 +50,6 @@
     {"id":{"name":"Obj_btn_settings","path":"objects/Obj_btn_settings/Obj_btn_settings.yy",},},
     {"id":{"name":"Obj_btn_gui_tap_parent","path":"objects/Obj_btn_gui_tap_parent/Obj_btn_gui_tap_parent.yy",},},
     {"id":{"name":"Obj_btn_gui_parent","path":"objects/Obj_btn_gui_parent/Obj_btn_gui_parent.yy",},},
-    {"id":{"name":"Obj_jump_effect","path":"objects/Obj_jump_effect/Obj_jump_effect.yy",},},
     {"id":{"name":"Spr_jump_effect","path":"sprites/Spr_jump_effect/Spr_jump_effect.yy",},},
     {"id":{"name":"snd_ow","path":"sounds/snd_ow/snd_ow.yy",},},
     {"id":{"name":"Spr_lose_screen","path":"sprites/Spr_lose_screen/Spr_lose_screen.yy",},},

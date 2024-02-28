@@ -50,17 +50,3 @@ draw_set_valign(fa_middle);
 
 draw_set_color(c_white); // Color of the text
 
-//draw_text(x, y, string(global.pots_collected));
-/**
-draw_self();
-
-draw_set_font(fnt_score);
-
-draw_set_halign(fa_center);
-draw_set_valign(fa_middle);
-
-draw_set_colour($FF003F7F & $ffffff);
-var l51EE9C25_0=($FF003F7F >> 24);
-draw_set_alpha(l51EE9C25_0 / $ff);
-
-draw_text(x + 0, y + 0,  + string(global.pots_collected));
